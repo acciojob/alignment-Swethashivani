@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+td:empty {
+	width: 100px;
+	height: 30px;
+}
+td{
+	width: 300px;
+}
